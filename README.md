@@ -23,7 +23,14 @@ A modern and responsive Real Estate Website built using **React.js** and **Tailw
 - **Frontend**: React.js, Tailwind CSS, HTML, CSS, JavaScript
 - **Forms**: Web3Forms (for contact submissions)
 - ## 📷 Screenshots
-- ![Screenshot 2025-04-14 002310](https://github.com/user-attachments/assets/8e2600c1-0d02-42bf-b844-99b574d02bda)
+  ![Screenshot 2025-04-14 002206](https://github.com/user-attachments/assets/761e2a10-6f4f-4e7e-be46-fd4346f70af4)
+  ![Screenshot 2025-04-14 002221](https://github.com/user-attachments/assets/315644e8-d851-4fb4-85b3-3bc06dd7c4e9)
+  ![Screenshot 2025-04-14 002310](https://github.com/user-attachments/assets/fb2d2325-59f0-4aa4-843a-aee3733a4c9e)
+  ![Screenshot 2025-04-14 002336](https://github.com/user-attachments/assets/10f4db5d-410e-41a8-a7bb-02008a53ef04)
+
+
+
+
 
 
 ## 📂 Folder Structure
